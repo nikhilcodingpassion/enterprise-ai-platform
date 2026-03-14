@@ -1,0 +1,13 @@
+* @your-org/your-core-team
+# Helm charts Owners
+/helm/ @your-maintainer
+
+# Web standards updates
+/web/STANDARDS.md @your-dev @your-dev2
+
+# Agent context files
+/CLAUDE.md @your-dev
+/AGENTS.md @your-dev
+
+# Beta cherry-pick workflow owners
+/.github/workflows/post-merge-beta-cherry-pick.yml @justin-tahara @jmelahman

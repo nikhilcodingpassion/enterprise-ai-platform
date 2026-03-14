@@ -1,0 +1,10 @@
+[project]
+name = "enterprise-ai-platform-backend"
+version = "0.0.0"
+requires-python = ">=3.11"
+dependencies = [
+    "enterprise-ai-platform[backend,dev,ee]",
+]
+
+[tool.uv.sources]
+enterprise-ai-platform = { workspace = true }
