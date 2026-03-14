@@ -36,6 +36,7 @@ The platform includes cutting-edge capabilities such as intelligent assistants, 
 ****
 
 ![Enterprise AI Platform Interactive Showcase](https://github.com/AI-repo/releases/download/v1.0.0/demo.gif)
+![Enterprise AI Platform](demo.png)
 
 
 
