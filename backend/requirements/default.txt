@@ -110,7 +110,7 @@ brotli==1.2.0
     # via onyx
 bytecode==0.17.0
     # via ddtrace
-cachetools==6.2.2
+cachetools==7.0.3
     # via py-key-value-aio
 caio==0.9.25
     # via aiofile
