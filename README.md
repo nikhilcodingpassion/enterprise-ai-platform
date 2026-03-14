@@ -21,10 +21,7 @@
     </a>
 </p>
 
-<p align="center">  <a href="https://trendshift.io/repositories/your-repo-id" target="_blank">
-    <img src="https://trendshift.io/api/badge/repositories/your-repo-id" alt="your-repo | Trendshift" style="width: 250px; height: 55px;" />
-  </a>
-</p>
+
 
 **Enterprise AI Platform** delivers a powerful, user-friendly chat interface that seamlessly integrates with a variety of large language models. It's crafted for quick deployment and functions perfectly in isolated network environments.
 
