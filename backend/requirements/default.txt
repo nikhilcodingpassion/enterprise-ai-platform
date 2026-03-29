@@ -997,7 +997,7 @@ sympy==1.14.0
     # via onnxruntime
 tblib==3.2.2
     # via distributed
-tenacity==9.1.2
+tenacity==9.1.4
     # via
     #   google-genai
     #   langchain-core
